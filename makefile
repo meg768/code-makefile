@@ -1,6 +1,7 @@
 GITHUB_USER=meg768
 GITHUB_PROJECT=code-makefile
 GITHUB_URL=https://github.com/$(GITHUB_USER)/$(GITHUB_PROJECT)
+GITHUB_COMMIT_MESSAGE=-
 
 all:
 	@echo Specify something
@@ -12,7 +13,7 @@ react-build:
 	npx react-scripts build
 
 git-commit:
-	git add -A && git commit -m '-' && git push
+	git add -A && git commit -m $(GITHUB_COMMIT_MESSAGE) && git push
 
 git-pull:
 	git pull
