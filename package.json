@@ -1,0 +1,18 @@
+{
+  "name": "code-makefile",
+  "version": "1.0.0",
+  "description": "A makefile for Code projects",
+  "main": "makefile",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meg768/code-makefile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meg768/code-makefile/issues"
+  },
+  "homepage": "https://github.com/meg768/code-makefile#readme"
+}
