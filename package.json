@@ -1,5 +1,5 @@
 {
-  "name": "code-makefile",
+  "name": "npm-makefile",
   "version": "1.0.4",
   "description": "A makefile for NPM projects",
   "main": "makefile",
