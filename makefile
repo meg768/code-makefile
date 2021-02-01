@@ -6,10 +6,10 @@ GITHUB_COMMIT_MESSAGE=-
 all:
 	@echo Specify something
 
-react-start:
+react-scripts-start:
 	npx react-scripts start
 
-react-build:
+react-scripts-build:
 	npx react-scripts build
 
 git-commit:
