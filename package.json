@@ -1,7 +1,7 @@
 {
   "name": "code-makefile",
   "version": "1.0.4",
-  "description": "A makefile for Code projects",
+  "description": "A makefile for NPM projects",
   "main": "makefile",
   "scripts": {
     "git-commit": "make git-commit",
