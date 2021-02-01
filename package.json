@@ -4,6 +4,8 @@
   "description": "A makefile for Code projects",
   "main": "makefile",
   "scripts": {
+	  "git-commit": "make git-commit",
+	  "git-reset": "make git-reset"
   },
   "repository": {
     "type": "git",
