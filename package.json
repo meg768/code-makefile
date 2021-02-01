@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meg768/code-makefile.git"
+    "url": "git+https://github.com/meg768/npm-makefile.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/meg768/code-makefile/issues"
+    "url": "https://github.com/meg768/npm-makefile/issues"
   },
-  "homepage": "https://github.com/meg768/code-makefile#readme"
+  "homepage": "https://github.com/meg768/npm-makefile#readme"
 }
