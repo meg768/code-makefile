@@ -20,10 +20,7 @@
     "type": "git",
     "url": "git+https://github.com/meg768/npm-makefile.git"
   },
-  "author": "",
+  "author": "meg768",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/meg768/npm-makefile/issues"
-  },
   "homepage": "https://github.com/meg768/npm-makefile#readme"
 }
