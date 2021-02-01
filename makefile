@@ -5,10 +5,10 @@ GITHUB_URL=https://github.com/$(GITHUB_USER)/$(GITHUB_PROJECT)
 all:
 	@echo Specify something
 
-react-scripts-start:
+react-start:
 	npx react-scripts start
 
-react-scripts-build:
+react-build:
 	npx react-scripts build
 
 git-commit:
@@ -25,4 +25,8 @@ git-open:
 
 npm-publish:
 	npm publish
+
+npm-increase-version:
+	npm version patch --no-git-tag-version
+
 	
