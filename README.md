@@ -1,2 +1,2 @@
 # code-makefile
-A makefile for Code projects
+A makefile for NPM projects
