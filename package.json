@@ -8,8 +8,11 @@
     "git-reset": "make git-reset",
     "git-open": "make git-open",
     "git-pull": "make git-pull",
-    "npm-publish": "make npm-publish",
-    "npm-increase-version": "make npm-increase-version",
+ 
+	"npm-publish": "make npm-publish",
+	"npm-increase-version": "make npm-increase-version",
+	"npm-open": "make npm-open",
+
     "react-start": "make react-start",
     "react-build": "make react-build"
   },

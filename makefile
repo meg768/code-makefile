@@ -29,4 +29,7 @@ npm-publish:
 npm-increase-version:
 	npm version patch --no-git-tag-version
 
+npm-open:
+	open https://www.npmjs.com/package/$(GITHUB_PROJCT)
+
 	
