@@ -13,8 +13,8 @@
 	"npm-increase-version": "make npm-increase-version",
 	"npm-open": "make npm-open",
 
-    "react-scripts-start": "make react-scripts-start",
-    "react-scripts-build": "make react-scripts-build"
+    "react-scripts-start": "make react-start",
+    "react-scripts-build": "make react-build"
   },
   "repository": {
     "type": "git",
